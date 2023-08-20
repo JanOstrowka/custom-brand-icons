@@ -391,6 +391,17 @@ Icons made by [@rchiileea](https://github.com/rchiileea)
 
 ---
 
+### Miele
+
+Icon made by [@janostrowka](https://github.com/janostrowka)
+
+| Icon | Name |
+| :--- | :--- |
+| ![Preview](/icon-svg/miele-scout-rx2.svg) | miele-scout-rx2 |
+
+---
+
+
 ### Miscellany of Icons
 
 | Icon | Name | Icon | Name |
